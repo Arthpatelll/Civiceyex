@@ -9,9 +9,9 @@ export const sampleIssues: Issue[] = [
     status: 'in-progress',
     priority: 'high',
     location: {
-      lat: 40.7128,
-      lng: -74.0060,
-      address: '123 Main Street, New York, NY 10001'
+      lat: 21.1702,
+      lng: 72.8311,
+      address: '123 Main Street, Surat, Gujarat 395001'
     },
     photos: ['https://images.pexels.com/photos/7876687/pexels-photo-7876687.jpeg?auto=compress&cs=tinysrgb&w=800'],
     reportedBy: 'user-1',
@@ -30,9 +30,9 @@ export const sampleIssues: Issue[] = [
     status: 'assigned',
     priority: 'medium',
     location: {
-      lat: 40.7589,
-      lng: -73.9851,
-      address: 'Central Park, New York, NY 10024'
+      lat: 21.1800,
+      lng: 72.8400,
+      address: 'Central Park, Surat, Gujarat 395007'
     },
     photos: ['https://images.pexels.com/photos/3735218/pexels-photo-3735218.jpeg?auto=compress&cs=tinysrgb&w=800'],
     reportedBy: 'user-2',
@@ -51,9 +51,9 @@ export const sampleIssues: Issue[] = [
     status: 'resolved',
     priority: 'medium',
     location: {
-      lat: 40.7505,
-      lng: -73.9934,
-      address: '456 Broadway, New York, NY 10013'
+      lat: 21.1600,
+      lng: 72.8200,
+      address: '456 Broadway, Surat, Gujarat 395003'
     },
     photos: ['https://images.pexels.com/photos/1108572/pexels-photo-1108572.jpeg?auto=compress&cs=tinysrgb&w=800'],
     reportedBy: 'user-3',
@@ -72,9 +72,9 @@ export const sampleIssues: Issue[] = [
     status: 'acknowledged',
     priority: 'urgent',
     location: {
-      lat: 40.7614,
-      lng: -73.9776,
-      address: '789 Park Avenue, New York, NY 10021'
+      lat: 21.1900,
+      lng: 72.8500,
+      address: '789 Park Avenue, Surat, Gujarat 395010'
     },
     photos: ['https://images.pexels.com/photos/3735218/pexels-photo-3735218.jpeg?auto=compress&cs=tinysrgb&w=800'],
     reportedBy: 'user-4',
