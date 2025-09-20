@@ -64,17 +64,13 @@ const Footer: React.FC = () => {
             <h3 className="text-lg font-semibold mb-4">Contact</h3>
             <ul className="space-y-2">
               <li className="flex items-center space-x-2 text-gray-400">
-                <Phone className="w-4 h-4" />
-                <span>311 (City Services)</span>
-              </li>
-              <li className="flex items-center space-x-2 text-gray-400">
                 <Mail className="w-4 h-4" />
                 <span>support@civiceye.gov</span>
               </li>
             </ul>
             <div className="mt-4">
               <h4 className="text-sm font-semibold mb-2">Emergency</h4>
-              <p className="text-red-400 font-bold">Call 911</p>
+              <p className="text-red-400 font-bold">Call 100</p>
             </div>
           </div>
         </div>
