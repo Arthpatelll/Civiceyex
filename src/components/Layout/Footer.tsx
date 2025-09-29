@@ -11,9 +11,9 @@ const Footer: React.FC = () => {
           <div className="col-span-1 md:col-span-2">
             <div className="flex items-center space-x-2 mb-4">
               <div className="w-8 h-8 bg-blue-600 rounded-lg flex items-center justify-center">
-                <span className="text-white font-bold text-sm">CE</span>
+                <span className="text-white font-bold text-sm">CC</span>
               </div>
-              <span className="text-xl font-bold">CivicEye</span>
+              <span className="text-xl font-bold">Civic Catalyst</span>
             </div>
             <p className="text-gray-400 mb-4 max-w-md">
               Empowering communities through real-time civic issue reporting and transparent municipal governance. 
@@ -69,7 +69,7 @@ const Footer: React.FC = () => {
               </li>
               <li className="flex items-center space-x-2 text-gray-400">
                 <Mail className="w-4 h-4" />
-                <span>support@civiceye.gov</span>
+                <span>support@civiccatalyst.gov</span>
               </li>
             </ul>
             <div className="mt-4">
@@ -83,7 +83,7 @@ const Footer: React.FC = () => {
         <div className="border-t border-gray-800 pt-8 mt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm">
-              © 2025 CivicEye. All rights reserved.
+              © 2025 Civic Catalyst. All rights reserved.
             </p>
             <div className="flex space-x-6 mt-4 md:mt-0">
               <Link to="/privacy" className="text-gray-400 hover:text-white text-sm transition-colors">
